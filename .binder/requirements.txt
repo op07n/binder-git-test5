@@ -1,0 +1,10 @@
+streamlit
+jupyter-server-proxy 
+nbserverproxy
+matplotlib
+numpy
+scikit-image
+datetime
+transformers
+torch
+fastai
